@@ -1,0 +1,28 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Flight Booking</title>
+    </head>
+<body>
+    <h5>welcome to my first webpage</h5>
+    <h2>About me</h2>
+    <p>My name is prema, and I am a web developer.</p>
+    <h2>My Interests</h2>
+    <p>I am interested in web development and design.</p>
+    <ul>
+        <li>Web Development</li>
+        <li>Web Design</li>
+    </ul>
+    <h2>Favorite Things</h2>
+    <ol>
+        <li>JavaScript</li>
+        <li>Python</li>
+    </ol>
+    <h1>Favorite websites</h1>
+    <a href="https://www.google.com">Visit Google</a>
+    <br>
+    <a href="https://www.facebook.com">Visit Facebook</a>
+
+</body>
+</html>
