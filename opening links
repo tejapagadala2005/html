@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <a href="https://www.youtube.com">visit youtube</a>
+    <a href="https://www.threads.com">visit threads</a>
+    <a href="https://www.facebook.com">visit facebook</a>
+    <a href="https://www.twitter.com">visit twitter</a>
+</body>
+</html>
