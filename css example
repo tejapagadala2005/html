@@ -1,0 +1,29 @@
+  <p>Hello! I am David . 
+        </p>
+    </section>
+    <section id="skills">
+        <h2>skills</h2>
+        <ul>
+            <li>HTML               30%</li>
+            <li>C                  30%</li>
+            <li>PYTHON             30%</li>
+            <li>CSS                30%</li>
+            <li>ANACONDA           30%</li>
+        </ul> 
+    </section>
+    <section id="resume">
+        <h2>RESUME</h2>
+        <a href="D:\POWER BI.pdf" download> download resume</a>
+    </section>
+    <section id="contact">
+        <h2>contact</h2>
+        <p>email: david@gmail.com</p>
+        <p>phone: 9807653421</p>
+    </section>
+    <footer>
+        <p>&copy;2026 David. All rights reserved </p>
+        <p>Instagram: <a href="https://www.instagram.com/?hl=en">David</a></p>
+         <p>Facebook: <a href="https://www.facebook.com/">David</a></p>
+    </footer>
+</body>
+</html>
